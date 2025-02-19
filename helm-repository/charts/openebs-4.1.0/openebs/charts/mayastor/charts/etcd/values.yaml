@@ -70,7 +70,7 @@ diagnosticMode:
 image:
   registry: docker.io
   repository: bitnami/etcd
-  tag: 3.5.6-debian-11-r10
+  tag: 3.5.18-debian-12-r4@sha256:3355d108d6682f84345e0000d7e310eb38c1510af38580e4a643afc23618aa19
   digest: ""
   ## @param image.pullPolicy etcd image pull policy
   ## Specify a imagePullPolicy
