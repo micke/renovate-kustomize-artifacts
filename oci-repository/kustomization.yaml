@@ -5,4 +5,4 @@ helmCharts:
   - name: argo-cd
     releaseName: argocdoci
     repo: oci://ghcr.io/argoproj/argo-helm
-    version: 7.8.1
+    version: 7.8.2
