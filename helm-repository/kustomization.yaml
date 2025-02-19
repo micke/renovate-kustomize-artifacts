@@ -5,4 +5,4 @@ helmCharts:
   - name: openebs
     releaseName: openebs
     repo: https://openebs.github.io/openebs
-    version: 4.1.0
+    version: 4.2.0
