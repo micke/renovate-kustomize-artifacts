@@ -11,7 +11,7 @@ dependencies:
 - condition: base.jaeger.enabled
   name: jaeger-operator
   repository: https://jaegertracing.github.io/helm-charts
-  version: 2.50.1
+  version: 2.57.0
 - condition: loki-stack.enabled
   name: loki-stack
   repository: https://grafana.github.io/helm-charts
