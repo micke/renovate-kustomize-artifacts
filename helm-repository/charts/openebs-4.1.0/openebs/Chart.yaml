@@ -14,7 +14,7 @@ dependencies:
 - condition: engines.local.lvm.enabled
   name: lvm-localpv
   repository: https://openebs.github.io/lvm-localpv
-  version: 1.6.0
+  version: 1.6.2
 - condition: engines.replicated.mayastor.enabled
   name: mayastor
   repository: https://openebs.github.io/mayastor-extensions
